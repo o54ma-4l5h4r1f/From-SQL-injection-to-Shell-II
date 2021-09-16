@@ -17,9 +17,9 @@
 -->
 [![Python-shield][Python-shield]][Python-shield]
 [![LastCommit][last-commit-shield]][last-commit-shield]
+[![Issues][issues-shield]][issues-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![Followers][Followers-shield]][Followers-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
