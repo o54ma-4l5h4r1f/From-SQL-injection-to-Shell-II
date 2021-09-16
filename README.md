@@ -209,7 +209,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [issues-shield]: https://img.shields.io/github/issues/o54ma-4l5h4r1f/Vulnhub.svg?style=for-the-badge
 [issues-url]: https://github.com/o54ma-4l5h4r1f/Vulnhub/issues
 [Followers-shield]: https://img.shields.io/github/followers/o54ma-4l5h4r1f?style=for-the-badge
-[Followers-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[Followers-url]:https://github.com/o54ma-4l5h4r1f?tab=followers
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/osama-alsharif-21153716a
 [product-screenshot]: images/screenshot.png
