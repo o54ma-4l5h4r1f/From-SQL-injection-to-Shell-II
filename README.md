@@ -202,11 +202,11 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [last-commit-shield]: https://img.shields.io/github/last-commit/o54ma-4l5h4r1f/Vulnhub?style=for-the-badge
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/o54ma-4l5h4r1f/Vulnhub?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/o54ma-4l5h4r1f/Vulnhub.svg?style=for-the-badge
+[forks-url]: https://github.com/o54ma-4l5h4r1f/Vulnhub/network/members
+[stars-shield]: https://img.shields.io/github/stars/o54ma-4l5h4r1f/Vulnhub.svg?style=for-the-badge
+[stars-url]: https://github.com/o54ma-4l5h4r1f/Vulnhub/stargazers
+[issues-shield]: https://img.shields.io/github/issues/o54ma-4l5h4r1f/Vulnhub.svg?style=for-the-badge
 [issues-url]: https://github.com/o54ma-4l5h4r1f/Vulnhub/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
