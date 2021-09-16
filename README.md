@@ -1,20 +1,3 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Python-shield][Python-shield]][Python-shield]
 [![LastCommit][last-commit-shield]][last-commit-shield]
 [![Issues][issues-shield]][issues-url]
@@ -199,7 +182,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[Python-shield]: https://img.shields.io/pypi/pyversions/requests?style=for-the-badge
+[Python-shield]: https://img.shields.io/pypi/pyversions/strings?style=for-the-badge
 [last-commit-shield]: https://img.shields.io/github/last-commit/o54ma-4l5h4r1f/Vulnhub?style=for-the-badge
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
