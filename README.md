@@ -15,6 +15,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+[![Python-shield][Python-shield]]
 [![LastCommit][last-commit-shield]][last-commit-shield]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -199,6 +200,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[Python-shield]: https://img.shields.io/github/pipenv/locked/python-version/o54ma-4l5h4r1f/Vulnhub?style=for-the-badge
 [last-commit-shield]: https://img.shields.io/github/last-commit/o54ma-4l5h4r1f/Vulnhub?style=for-the-badge
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
