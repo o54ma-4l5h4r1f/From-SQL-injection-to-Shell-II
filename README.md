@@ -18,10 +18,10 @@
   <h3 align="center">From SQL injection to Shell II</h3>
 
   <p align="center">
-    Blind SQL Injection
+    Blind SQL Injection <br />
     Difficulty Intermediate
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://www.vulnhub.com/entry/pentester-lab-from-sql-injection-to-shell-ii,69/"><strong>Explor Vulnhub »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
