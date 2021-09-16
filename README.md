@@ -1,6 +1,7 @@
 [![Python-shield][Python-shield]][Python-shield]
 [![LastCommit][last-commit-shield]][last-commit-shield]
 [![Issues][issues-shield]][issues-url]
+[![Forks][forks-shield]][forks-shield]
 [![Stargazers][stars-shield]][stars-url]
 [![Followers][Followers-shield]][Followers-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -184,8 +185,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Python-shield]: https://img.shields.io/pypi/pyversions/strings?style=for-the-badge
 [last-commit-shield]: https://img.shields.io/github/last-commit/o54ma-4l5h4r1f/Vulnhub?style=for-the-badge
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/o54ma-4l5h4r1f/Vulnhub.svg?style=for-the-badge
 [forks-url]: https://github.com/o54ma-4l5h4r1f/Vulnhub/network/members
 [stars-shield]: https://img.shields.io/github/stars/o54ma-4l5h4r1f/Vulnhub.svg?style=for-the-badge
