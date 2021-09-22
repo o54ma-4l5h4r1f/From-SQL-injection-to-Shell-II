@@ -22,7 +22,7 @@
     <a href="https://www.vulnhub.com/entry/pentester-lab-from-sql-injection-to-shell-ii,69/"><strong>Explor Vulnhub »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Code</a>
+    <a href="https://github.com/o54ma-4l5h4r1f/Vulnhub/blob/master/BlindSQLI.py">View Code</a>
     ·
     <a href="https://github.com/o54ma-4l5h4r1f/Vulnhub/issues">Report Bug</a>
   </p>
