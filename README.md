@@ -1,5 +1,5 @@
 [![Python-shield][Python-shield]][Python-shield]
-[![LastCommit][last-commit-shield]][last-commit-shield]
+[![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Followers][Followers-shield]][Followers-url]
@@ -23,11 +23,11 @@
     <a href="https://www.vulnhub.com/entry/pentester-lab-from-sql-injection-to-shell-ii,69/"><strong>Explor Vulnhub »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">View Code</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/o54ma-4l5h4r1f/Vulnhub/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+<!--     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a> -->
   </p>
 </p>
 
