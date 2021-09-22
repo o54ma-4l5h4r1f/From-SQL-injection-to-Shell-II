@@ -22,9 +22,9 @@
     <a href="https://www.vulnhub.com/entry/pentester-lab-from-sql-injection-to-shell-ii,69/"><strong>Explor Vulnhub »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/o54ma-4l5h4r1f/Vulnhub/blob/master/BlindSQLI.py">View Code</a>
+    <a href="https://github.com/o54ma-4l5h4r1f/From-SQL-injection-to-Shell-II/blob/master/BlindSQLI.py">View Code</a>
     ·
-    <a href="https://github.com/o54ma-4l5h4r1f/Vulnhub/issues">Report Bug</a>
+    <a href="https://github.com/o54ma-4l5h4r1f/From-SQL-injection-to-Shell-II/issues">Report Bug</a>
   </p>
 </p>
 
@@ -42,20 +42,20 @@ So make sure to increase the sleep(x) time if you were testing remotly.
 
 Osama Alsharif - [LinkedIn](https://www.linkedin.com/in/osama-alsharif-21153716a) - osamaalsharif100@gmail.com
 
-Project Link: [https://github.com/o54ma-4l5h4r1f/Vulnhub](https://github.com/o54ma-4l5h4r1f/Vulnhub)
+Project Link: [https://github.com/o54ma-4l5h4r1f/From-SQL-injection-to-Shell-II](https://github.com/o54ma-4l5h4r1f/From-SQL-injection-to-Shell-II)
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Python-shield]: https://img.shields.io/pypi/pyversions/strings?style=for-the-badge
-[last-commit-shield]: https://img.shields.io/github/last-commit/o54ma-4l5h4r1f/Vulnhub?style=for-the-badge
-[forks-shield]: https://img.shields.io/github/forks/o54ma-4l5h4r1f/Vulnhub.svg?style=for-the-badge
-[forks-url]: https://github.com/o54ma-4l5h4r1f/Vulnhub/network/members
-[stars-shield]: https://img.shields.io/github/stars/o54ma-4l5h4r1f/Vulnhub.svg?style=for-the-badge
-[stars-url]: https://github.com/o54ma-4l5h4r1f/Vulnhub/stargazers
-[issues-shield]: https://img.shields.io/github/issues/o54ma-4l5h4r1f/Vulnhub.svg?style=for-the-badge
-[issues-url]: https://github.com/o54ma-4l5h4r1f/Vulnhub/issues
+[last-commit-shield]: https://img.shields.io/github/last-commit/o54ma-4l5h4r1f/From-SQL-injection-to-Shell-II?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/o54ma-4l5h4r1f/From-SQL-injection-to-Shell-II.svg?style=for-the-badge
+[forks-url]: https://github.com/o54ma-4l5h4r1f/From-SQL-injection-to-Shell-II/network/members
+[stars-shield]: https://img.shields.io/github/stars/o54ma-4l5h4r1f/From-SQL-injection-to-Shell-II.svg?style=for-the-badge
+[stars-url]: https://github.com/o54ma-4l5h4r1f/From-SQL-injection-to-Shell-II/stargazers
+[issues-shield]: https://img.shields.io/github/issues/o54ma-4l5h4r1f/From-SQL-injection-to-Shell-II.svg?style=for-the-badge
+[issues-url]: https://github.com/o54ma-4l5h4r1f/From-SQL-injection-to-Shell-II/issues
 [Followers-shield]: https://img.shields.io/github/followers/o54ma-4l5h4r1f?style=for-the-badge
 [Followers-url]:https://github.com/o54ma-4l5h4r1f?tab=followers
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
