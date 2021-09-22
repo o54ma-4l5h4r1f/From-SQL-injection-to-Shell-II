@@ -31,7 +31,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About
-I wrote this script to dump the MySQL database char by char (Time-Based), I applied the script on [From SQL injection to Shell II] machine on vulnhub which i recommend to have a time testing on it, Of course using sqlmap would be easier, But writing code help you to understand more what is happening in the backend. 
+I wrote this script to dump the MySQL database char by char (Time-Based), I applied the script on "From SQL injection to Shell II" machine on [vulnhub](https://www.vulnhub.com) which i recommend you to give it a shot, Of course using sqlmap would be easier, But writing code help you to understand more what is happening in the backend. 
 #### Note
 Testing Time-Based vulnerabilities locally is more precise than doing it remotly, Where there is no external factor that affect on the delay such (queuing delay, congestion delay, etc).
 So make sure to increase the sleep(x) time if you were testing remotly.
